@@ -1,5 +1,7 @@
 # Animal-Adoption-Likelihood-Estimation
 
+![](https://www.expatrepublic.com/wp-content/uploads/2021/01/How-to-Adopt-a-Dog-in-the-Netherlands-featured.jpg)
+
 ## Project Description
 In this project, we aim to provide valuable insights to a client managing an animal shelter. Our goal is to develop a model that predicts the likelihood of an animal being adopted, while also gaining a deeper understanding of the factors that influence adoption rates. Through data analysis and visualization, we will explore relationships between various features and outcomes, helping the client make informed decisions about animal donations and improve the overall adoption process.
 
